@@ -8,7 +8,7 @@ namespace assignment {
   // Task 1
   int squared_diff(int left, int right) {
 
-      return pow((left - right), 2);
+      return (pow((left - right), 2));
 
   }
 
