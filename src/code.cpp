@@ -31,6 +31,8 @@ namespace assignment {
       int n = pow(10, bit_pos);
       if ((bit_mask % n) == 1)
           return true;
+      else
+          return false;
   }
 
   // Task 3
